@@ -1,0 +1,11 @@
+* {
+    padding: 0; margin: 0;
+}
+
+h1, .background {
+    text-align: center;
+}
+
+.background {
+    padding: 200px;
+}
